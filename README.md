@@ -4,8 +4,7 @@
 
 ## Overview
 
-The purpose of the analysis is well defined. 
-
+This analysis
 
 ## Results
 
