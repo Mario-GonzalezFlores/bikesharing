@@ -55,3 +55,11 @@ Some of the most frequently used stations are in touristic landmarks, which poin
 ## Summary
 
 From the information above we can see that it's redituable to start a bikesharing service, since the service is widely used and the presence of so highly used stations means that there is probably a shortage of bikes in the zone, as well as higher chances to amplify service around the dotted area.
+
+### Some additional visualizations that could help to understand better the necessity of our users are the following:
+
+![8_start_by_hour](https://user-images.githubusercontent.com/89816213/147416746-0aece26d-1ad9-4400-a88b-edc93e68b998.PNG)
+
+![9_ending_locations_hours](https://user-images.githubusercontent.com/89816213/147416747-3e3bdbe5-2130-4a4d-aab0-9cb32f5646e6.PNG)
+
+This images let us know where most of the users start and end their rides, this could ve valious information to programm manteinance and consider relocation of some bikes during specific hours.
