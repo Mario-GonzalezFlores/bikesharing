@@ -1,8 +1,6 @@
 # Bikesharing Analysis
 
-- Analysis based on information available in the following link:
-
-[link to dashboard](https://public.tableau.com/views/citiBikeAnalysis_16404938519610/citiBikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- Analysis based on information available in this [link to dashboard](https://public.tableau.com/views/citiBikeAnalysis_16404938519610/citiBikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Overview
 
