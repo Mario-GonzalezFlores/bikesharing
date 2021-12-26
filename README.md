@@ -62,4 +62,4 @@ From the information above we can see that it's redituable to start a bikesharin
 
 ![9_ending_locations_hours](https://user-images.githubusercontent.com/89816213/147416747-3e3bdbe5-2130-4a4d-aab0-9cb32f5646e6.PNG)
 
-This images let us know where most of the users start and end their rides, this could ve valious information to programm manteinance and consider relocation of some bikes during specific hours.
+This images let us know where most of the users start and end their rides, this could ve valious information to program manteinance and consider relocation of some bikes during specific hours.
